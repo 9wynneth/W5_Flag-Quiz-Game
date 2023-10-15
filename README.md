@@ -1,0 +1,4 @@
+# W5_Flag-Quiz-Game
+I've created a simple educational quiz-style app that challenges players to test their knowledge of the flags associated with the 10 ASEAN countries. In this game, users are asked to select the flag of the country being presented. There are 10 rounds, and the objective is to answer as many questions correctly as possible. Importantly, you won't be asked about the same country more than once during a single game. After you've answered all 10 questions, a modal view and alert will display the total correct and incorrect answers. Additionally, there's a restart button in the alert, allowing users to play the game again.
+<img width="1680" alt="Screenshot 2023-10-15 at 15 15 39" src="https://github.com/9wynneth/W5_Flag-Quiz-Game/assets/95265271/8f987636-7273-4b57-9b65-c44aaf2b7257">
+<img width="1680" alt="Screenshot 2023-10-15 at 15 16 05" src="https://github.com/9wynneth/W5_Flag-Quiz-Game/assets/95265271/83229017-dfbc-4350-8d7a-85a671a0a54d">
